@@ -34,9 +34,9 @@ This project introduces an **AI-driven chatbot** that automates the entire ticke
 
 - **Framework**: Laravel
 - **Bot Integration**: Twilio API
-- **Payment Gateway**: (e.g., Razorpay/Stripe/etc.) *(Replace with actual name)*
+- **Payment Gateway**: (e.g., Razorpay/Stripe/etc.)
 - **Database**: MySQL
-- **Frontend**: Blade / Vue.js *(if applicable)*
+- **Frontend**: Blade.php
 
 ---
 
@@ -57,3 +57,25 @@ This project introduces an **AI-driven chatbot** that automates the entire ticke
 
     ```bash
     php artisan serve
+
+---
+
+## Screenshots of website
+
+<p align="center" >
+  <img src="https://res.cloudinary.com/dhadivmz4/image/upload/v1746202277/laravel_ca_1_nba4lc.png" width="45%"/>
+  <img src="https://res.cloudinary.com/dhadivmz4/image/upload/v1746202277/laravel_ca_2_x8duvx.png" width="45%"/>
+  <img src="https://res.cloudinary.com/dhadivmz4/image/upload/v1746202277/laravel_ca_3_n6bcq2.png" width="45%"/> 
+</p>
+
+<p align="center" >
+  <img src="https://res.cloudinary.com/dhadivmz4/image/upload/v1746202273/laravel_ca_4_a5t23j.png" width="45%"/>
+  <img src="https://res.cloudinary.com/dhadivmz4/image/upload/v1746202273/laravel_ca_5_ornj8k.png" width="45%"/>
+  <img src="https://res.cloudinary.com/dhadivmz4/image/upload/v1746202273/laravel_ca_6_oiqpvz.png" width="45%"/>
+</p>
+
+<p align="center" >
+  <img src="" width="45%"/>
+  <img src="" width="45%"/>
+  <img src="" width="45%"/>
+</p>
